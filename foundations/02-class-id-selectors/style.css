@@ -1,0 +1,20 @@
+p{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.second{
+    font-size: 36px;
+    color: blue;
+}
+
+.third{
+    font-size: 24px;
+}
+
+.fourth{
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
